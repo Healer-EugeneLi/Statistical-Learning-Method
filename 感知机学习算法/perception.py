@@ -2,10 +2,8 @@
 # @Time    : 2020/6/25 21:21
 # @Author  : EugeneLi
 # @Email   : 861269630@qq.com
-<<<<<<< HEAD
 # @File    : perception.py
-=======
-# @File    : perception.py
+
 
 '''
 数据集：Mnist
@@ -145,4 +143,4 @@ if __name__ == '__main__':
     print('正确率是',accuRate)
     end=time.time()
     print("the perception algorithm time is",(end-start))
->>>>>>> df05603... 感知机学习算法的实现
+
